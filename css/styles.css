@@ -121,6 +121,10 @@ a:hover {
   margin: 40px auto 60px;
 }
 
+.footer-text {
+  padding-bottom: 20px;
+}
+
 .copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
